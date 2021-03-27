@@ -1,0 +1,194 @@
+.tatata {
+    width: 100%;
+}
+
+
+@media only screen and (min-width: 768px) {
+    * {
+        outline: 0;
+        border: none;
+        margin: 0;
+        padding: 0;
+        background-repeat: no-repeat;
+        list-style: none;
+        text-decoration: none;
+        color: #000;
+        font: 12px Arial, Helvetica, sans-serif
+    }
+
+    .tatata {
+        width: 50%;
+        float: left;
+        padding: 10px;
+        box-sizing: border-box;
+    }
+    
+    
+.g2 td {
+    height: 5.5em
+}
+
+.g3 td {
+    height: 8em
+}
+
+.g4 td {
+    height: 10.5em
+}
+
+.g5 td {
+    height: 13em
+}
+
+.g6 td {
+    height: 15.5em
+}
+
+.g7 td {
+    height: 18em
+}
+
+.g8 td {
+    height: 20.5em
+}
+}
+
+h1 {
+    padding: 0;
+    margin: 0;
+}
+
+h1,
+th div {
+    font-weight: 700
+}
+
+body {
+    padding: 5px
+}
+
+h1 {
+    font-size: 16px;
+    color: #09c;
+}
+
+form {
+    margin: 1em .5em
+}
+
+form em {
+    color: #d22;
+    font-style: normal
+}
+
+table {
+    border: 2px solid #777;
+    border-collapse: collapse
+}
+
+th {
+    background-color: #777;
+    border-bottom: 1px solid #777;
+    width: 63px
+}
+
+th * {
+    color: #fff
+}
+
+th span {
+    font-size: 8px;
+    font-weight: 400
+}
+
+td {
+    text-align: center
+}
+
+td * {
+    font-size: 11px
+}
+
+td div em {
+    color: #444;
+    font-size: 80%;
+    padding-left: .5em;
+    font-style: italic
+}
+
+td div span {
+    color: red;
+    font-weight: 700
+}
+
+input {
+    border: 1px solid #ccc;
+    margin-left: 1em
+}
+
+.info,
+.table {
+    margin-left: 5px
+}
+
+#ptr {
+    background: url(r_ptr.gif) center top;
+    display: none;
+    position: absolute;
+    width: 9px;
+    top: 0
+}
+
+#ptr img {
+    vertical-align: top
+}
+
+.chg {
+    background: url(r_crn.gif) right bottom no-repeat;
+    cursor: help
+}
+
+
+.hr {
+    border: 1px solid #777;
+    font-size: 11px
+}
+
+.info,
+.legend {
+    color: #777;
+    font-size: 10px
+}
+
+.now {
+    background-color: #9a9ad4b4;
+}
+
+.now:empty {
+    background-color: #9a9ad4b4;
+}
+
+.p5 {
+    width: 7px
+}
+
+.p10 {
+    width: 14px
+}
+
+.p20 {
+    width: 28px
+}
+
+.ps {
+    background-color: silver
+}
+
+.table {
+    position: relative
+}
+
+.tdy {
+    background-color: #e0e0ff
+}
+
